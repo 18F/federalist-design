@@ -76,3 +76,4 @@
 74. set destination for email address form in template
 75. track site traffic data
 76. link to site analytics dashboard
+77. 
