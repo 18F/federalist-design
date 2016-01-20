@@ -1,9 +1,9 @@
 test
 
-![test](../assets/images/test.png)
+![test](../assets/test.png)
 
-![test](../../assets/images/test.png)
+![test](../../assets/test.png)
 
-![test](../../../assets/images/test.png)
+![test](../../../assets/test.png)
 
-![test](../../../../assets/images/test.png)
+![test](../../../../assets/test.png)
