@@ -1,3 +1,3 @@
-test
+This is a placeholder for Federalist UI Styleguide.
 
-![test](../../assets/test.png)
+![placeholder](../../assets/placeholder.png)
