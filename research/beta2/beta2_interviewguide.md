@@ -15,7 +15,7 @@ for usability testing in January 2016 / Beta 2
 * **Recording:** I'll be recording our conversation. The purpose of this is so that I can get all the details but at the same time be able to stay present with you. I assure you that all your comments will remain confidential. I'll be compiling a report which will contain all participants comments without any reference to individuals. Some of my team members are observing via video stream so that they can hear your valuable insights. Is that ok with you?
 
 * **Github** Just want to double check, do you have a github account? We'll be using that today.
-
+d
 ---
 
 # Individual experience
