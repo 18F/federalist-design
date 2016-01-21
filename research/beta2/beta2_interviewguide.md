@@ -88,7 +88,7 @@ basic landing page thoughts / login through github / dashboard pages list
   * Let's add a picture of a map
 * Great. What would you do next, to make sure that this new page gets saved and is part of your site?
 
-### 3: Editing a page & previewing it (plus publish?)
+### 3: Editing, previewing and publishing a page
 
 *Let's say you found a couple of typos on the index.md page, and you want to correct them.*
 
