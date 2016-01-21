@@ -15,12 +15,12 @@ for usability testing in January 2016 / Beta 2
 * **Recording:** I'll be recording our conversation. The purpose of this is so that I can get all the details but at the same time be able to stay present with you. I assure you that all your comments will remain confidential. I'll be compiling a report which will contain all participants comments without any reference to individuals. Some of my team members are observing via video stream so that they can hear your valuable insights. Is that ok with you?
 
 * **Github** Just want to double check, do you have a github account? We'll be using that today.
-d
+
 ---
 
 # Individual experience
 
-*[10 min. All questions are not required, but begin a rapport, and get an understanding of what they do, and what their current challenges are regarding publishing content online.]*
+*[10 min. All questions are **not required**, but do begin a rapport, and get an understanding of what they do, and what their current challenges are regarding publishing content online.]*
 
 * Describe your role here at _________.  
 * What does a typical day look like? What are your primary responsibilities?
@@ -57,7 +57,8 @@ Now I’d like you to take a look at our current design. As we go through it, I'
 
 ### 1: Log in & Landing page
 
-*The first thing we'll do is to sign up on Federalist using Github
+*The first thing we'll do is to sign up on Federalist using Github. You'll notice we'll go through this part quickly, and if you have any questions I can answer them at the end.*
+
 basic landing page thoughts / login through github / dashboard pages list
 
 
@@ -65,11 +66,14 @@ basic landing page thoughts / login through github / dashboard pages list
 * Let's go to federalist.18f.gov
 * Here we are, can you take look around and tell me what this site is trying to say?
   * *[What does it do, who is it for?  Is it understandable, what's confusing?]*
-* Let's log in
-* Once logged in, what are we seeing here?
+* Let's sign up to Federalist
+* Once signed in, what are we seeing here?
 * Let's create a new site
   * And feel free to choose whichever template you'd like
-
+  * Name your site whatever you'd like
+  * It should take one or two minutes to create your new site.
+* Great! Let's see what your new site looks like.
+  * *[They should go to "View"]*
 
 
 ### 2: Making a new page
@@ -77,32 +81,29 @@ basic landing page thoughts / login through github / dashboard pages list
 *Let's say you've created all the pages necessary for your new website, except the Contact Us page. Let's make that page now.*
 
 * What would you do to make this new page?
+  * *[They should go to "Edit" and create a new page there]*
 * Can you add some content to this page?
-Create  / image insert / save --
-
-
+  * *[They should go to "Add a new page"]*
+  * Give them some contact info to add
+  * Let's add a picture of a map
+* Great. What would you do next, to make sure that this new page gets saved and is part of your site?
 
 ### 3: Editing a page & previewing it (plus publish?)
 
-*Let's say you found a couple of typos [XYZ] page, and you want to correct them.*
+*Let's say you found a couple of typos on the index.md page, and you want to correct them.*
 
-Edit a typo / cancel / view preview / preview only true to that page / navigate to another page (which is on production)
-
-* at this point, what would you do to cancel the changes
-
-save + publish / move a page
+* What would you do to edit those typos?
+* Let's say you decided not to make these changes, what would you do? / Let's say you decided not to save your changes, what would you do?
+  * *[Looking for how people think about "Cancel"]*
+* Great, the corrections look great. What would you do to preview your changes?
+  * *[Can you preview from the page itself? Or do you need to go back to the pages view to preview the entire site?]*
+* Your Contact Us page is looking great. What would you do to make sure it's part of your live / published site?
 
 ### 4: Organizing your site
 
 *Let's say you had a meeting with your team, and the follow up of that meeting was to re-organize a couple of pages on the site.*
 
-* Can you please edit the [XYZ] page?
-
-* Can
-these two pages subpages
-dealing with multiple pages at once / or one at a time / what is the paradigm people are used to and would expect
-
-
+* To write: Can these two pages subpages... dealing with multiple pages at once / or one at a time / what is the paradigm people are used to and would expect
 
 
 ---
@@ -114,14 +115,3 @@ dealing with multiple pages at once / or one at a time / what is the paradigm pe
 * How would you describe it to someone else?
 * How would you characterize it's brand / personality?
 * If you had a magic wand, what would Federalist look like and work like for you?
-
-
-
-
-If there is time:
-
-* preview
-* how do people want to share? PDF / screenshots / just the copy / live site
-Listen for:
-How well we've done github abstraction (doesn't matter) > but, is the UI making sense?
-* spending money on CMS? Is it successful?
