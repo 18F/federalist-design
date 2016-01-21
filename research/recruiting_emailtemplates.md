@@ -2,11 +2,21 @@ Federalist Recruiting — Email templates
 
 ## Initial request for interview  
 
+Note, need 1-2 line personal intros for:  
+* People who have done interviews with us before:  
+  * *"Thanks for chatting with us last year! We listened to you, and have some progress to show you."*
+* People who have signed up for updates since then:
+  * *"Thanks for expressing interest in Federalist. Can we spend some time with you to learn about what drew you to it?"*
+* People who have signed into Federalist:
+  * *"Thanks for signing into Federalist! Can we spend some time with you to learn about what drew you to it?"*
+* People who are paying customers:
+  * *"Thanks for choosing Federalist! Please help us make it better for you."*
+
 Subject line: Help improve Federalist, open source web publishing platform
 
 Greetings!
 
-[Federalist](https://federalist.18f.gov/) is an open source web publishing platform for the U.S. federal government. It provides templates for websites, an online editor for maintaining content, and cloud-based infrastructure for high-scale, low-cost website hosting. The team at [18F](18f.gsa.) builds and maintains it as a hosted service available to federal government agencies.
+[Federalist](https://federalist.18f.gov/) is an open source web publishing platform for the U.S. federal government. It provides templates for websites, an online editor for maintaining content, and cloud-based infrastructure for high-scale, low-cost website hosting. The team at [18F](18f.gsa.gov) builds and maintains it as a hosted service available to federal government agencies.
 
 **How can you help?** We're looking for volunteers! We’d like to show you some of our work-in-progress and have you try and use it to see if it works for you. You don't need any special tech or subject-matter experience. All you need is a willingness to chat with our team's researchers for about 45 minutes.
 
