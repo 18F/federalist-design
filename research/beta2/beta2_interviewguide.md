@@ -98,7 +98,7 @@ basic landing page thoughts / login through github / dashboard pages list
 * Your corrections look great. What would you do to preview your changes?
   * *[Looking for how and where people expect to see their changes. ASK DEV: Can you preview from the page itself? Or do you need to go back to the pages view to preview the entire site?]*  
 * Your Contact Us page is looking great. What would you do to make sure it's part of your live / published site?
-  * *[Looking for how people understand and think about unpublished vs published pages. ASK DEV: What's the status on this differentiation?]*
+  * *[Looking for how people understand and think about unpublished vs published pages. ASK: What's the status on this differentiation?]*
 
 ### 4: Organizing your site
 
@@ -106,8 +106,8 @@ basic landing page thoughts / login through github / dashboard pages list
 
 * What would you do make X and Y page subpages of Z page?  
 * *[Looking for how people want to organize multiple pages (at once, or one at a time?) What is the paradigm people are used to and would expect?]*  
-* *[ASK DEV: What's the status of the pages page?]*
-* *[ASK DEV: How to subpages show up in the main menu? Is it a dropdow?]*
+* *[ASK: What's the status of the pages page?]*
+* *[ASK: How do subpages show up in the main menu? Is it a dropdown?]*
 
 ---
 
