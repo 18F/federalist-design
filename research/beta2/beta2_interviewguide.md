@@ -95,16 +95,19 @@ basic landing page thoughts / login through github / dashboard pages list
 * What would you do to edit those typos?
 * Let's say you decided not to make these changes, what would you do? / Let's say you decided not to save your changes, what would you do?
   * *[Looking for how people think about "Cancel"]*
-* Great, the corrections look great. What would you do to preview your changes?
-  * *[Can you preview from the page itself? Or do you need to go back to the pages view to preview the entire site?]*
+* Your corrections look great. What would you do to preview your changes?
+  * *[Looking for how and where people expect to see their changes. ASK DEV: Can you preview from the page itself? Or do you need to go back to the pages view to preview the entire site?]*  
 * Your Contact Us page is looking great. What would you do to make sure it's part of your live / published site?
+  * *[Looking for how people understand and think about unpublished vs published pages. ASK DEV: What's the status on this differentiation?]*
 
 ### 4: Organizing your site
 
 *Let's say you had a meeting with your team, and the follow up of that meeting was to re-organize a couple of pages on the site.*
 
-* To write: Can these two pages subpages... dealing with multiple pages at once / or one at a time / what is the paradigm people are used to and would expect
-
+* What would you do make X and Y page subpages of Z page?  
+* *[Looking for how people want to organize multiple pages (at once, or one at a time?) What is the paradigm people are used to and would expect?]*  
+* *[ASK DEV: What's the status of the pages page?]*
+* *[ASK DEV: How to subpages show up in the main menu? Is it a dropdow?]*
 
 ---
 
