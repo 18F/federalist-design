@@ -96,7 +96,7 @@ basic landing page thoughts / login through github / dashboard pages list
 * Let's say you decided not to make these changes, what would you do? / Let's say you decided not to save your changes, what would you do?
   * *[Looking for how people think about "Cancel"]*
 * Your corrections look great. What would you do to preview your changes?
-  * *[Looking for how and where people expect to see their changes. ASK DEV: Can you preview from the page itself? Or do you need to go back to the pages view to preview the entire site?]*  
+  * *[Looking for how and where people expect to see their changes. ASK: Can you preview from the page itself? Or do you need to go back to the pages view to preview the entire site?]*  
 * Your Contact Us page is looking great. What would you do to make sure it's part of your live / published site?
   * *[Looking for how people understand and think about unpublished vs published pages. ASK: What's the status on this differentiation?]*
 
