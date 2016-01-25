@@ -42,8 +42,12 @@ Based on the U.S. Web Design Standards, Federalist UI Styleguide sets for visual
   <img src="../../assets/images/form-controls.png?raw=true" alt="form-controls"/>
 </p>
 
-# Example
+# Examples
 
 <p align="center">
-  <img src="../../assets/images/placeholder.png?raw=true" alt="placeholder"/>
+  <img src="../../assets/images/example-1.png?raw=true" alt="example-1"/>
+</p>
+
+<p align="center">
+  <img src="../../assets/images/example-2.png?raw=true" alt="example-2"/>
 </p>
