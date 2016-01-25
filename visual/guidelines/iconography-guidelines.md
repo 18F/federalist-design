@@ -26,13 +26,13 @@ Consistent corner radiuses are key to unifying the overall icon family. A 0.5 Un
 
 Consistent stroke weights are key to unify- ing the overall icon family. Maintain a pixel unit grid width for all stroke instances. 
 
-<p align="center">
-  <img src="../../assets/images/strokes.png?raw=true" alt="strokes"/>
-</p>
-
 **Optical Corrections**
 
 If an icon becomes unrecognizable, when it’s filled, add legibility by using a heavier stroke for example.
+
+<p align="center">
+  <img src="../../assets/images/optical-corrections.png?raw=true" alt="optical-corrections"/>
+</p>
 
 **Variations**
 
