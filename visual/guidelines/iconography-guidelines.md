@@ -1,12 +1,12 @@
-Iconography Guidelines
+# Iconography Guidelines
 
-# Design Principles
+**Design Principles**
 
 The icons are simple, modern, friendly, and intuitive. Each icon is reduced to its minimal form, with every idea edited to its essence. The designs ensure readability and clarity even at small sizes.
 
 Symmetry and consistency of geometric shapes give the icons a unique quality, while keeping them simple and bold. Simple elements unify icons and systemize their placement on the grid. Positioning, sizing, and coloring distinguish between icons.
 
-# Grid
+**Grid**
 
 The 24x24 pixel grid has been developed to facilitate consistency and establish a clear set of rules for the positioning of graphic elements. This standardization results in a flexible but coherent system. 
 
