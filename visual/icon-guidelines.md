@@ -15,7 +15,7 @@ Symmetry and consistency of geometric shapes give the icons a unique quality, wh
 The 24x24 pixel grid has been developed to facilitate consistency and establish a clear set of rules for the positioning of graphic elements. This standardization results in a flexible but coherent system. 
 
 <p align="center">
-  <img src="../../assets/images/grid.png?raw=true" alt="grid"/>
+  <img src="../assets/images/grid.png?raw=true" alt="grid"/>
 </p>
 
 **Corners and Stroke Caps**
@@ -31,7 +31,7 @@ Consistent stroke weights are key to unify- ing the overall icon family. Maintai
 If an icon becomes unrecognizable, when it’s filled, add legibility by using a heavier stroke for example.
 
 <p align="center">
-  <img src="../../assets/images/optical-corrections.png?raw=true" alt="optical-corrections"/>
+  <img src="../assets/images/optical-corrections.png?raw=true" alt="optical-corrections"/>
 </p>
 
 **Variations**
@@ -41,7 +41,7 @@ If you’re designing an icon that has two versions—one for default and one fo
 Not all actions need an icon. You can use text to represent items in the application. To help you decide whether to use text or icons, consider how many icons are visible onscreen at a time. Too many icons on a screen can make an application seem difficult to use. 
 
 <p align="center">
-  <img src="../../assets/images/variations.png?raw=true" alt="variations"/>
+  <img src="../assets/images/variations.png?raw=true" alt="variations"/>
 </p>
 
 **Final Note**
@@ -51,5 +51,5 @@ This is just a guideline and not a set of strict rules to follow. Always use you
 **Icons**
 
 <p align="center">
-  <img src="../../assets/images/icons.png?raw=true" alt="icons"/>
+  <img src="../assets/images/icons.png?raw=true" alt="icons"/>
 </p>
