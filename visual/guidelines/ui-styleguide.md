@@ -1,4 +1,4 @@
-Based on the U.S. Web Design Standards, Federalist UI Styleguide sets for visual design consistency across the application.
+Based on the U.S. Web Design Standards, Federalist UI Styleguide sets for visual design consistency across the Federalist website and platform.
 
 # Colors
 
