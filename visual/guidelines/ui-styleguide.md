@@ -12,6 +12,8 @@ Based on the U.S. Web Design Standards, Federalist UI Styleguide sets for visual
   <img src="../../assets/images/typefaces.png?raw=true" alt="typefaces"/>
 </p>
 
+# Typesetting
+
 <p align="center">
   <img src="../../assets/images/typesetting.png?raw=true" alt="typesetting"/>
 </p>
@@ -38,4 +40,10 @@ Based on the U.S. Web Design Standards, Federalist UI Styleguide sets for visual
 
 <p align="center">
   <img src="../../assets/images/form-controls.png?raw=true" alt="form-controls"/>
+</p>
+
+# Example
+
+<p align="center">
+  <img src="../../assets/images/placeholder.png?raw=true" alt="placeholder"/>
 </p>
