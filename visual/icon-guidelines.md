@@ -7,7 +7,7 @@ The icons are simple, modern, friendly, and intuitive. Each icon is reduced to i
 Symmetry and consistency of geometric shapes give the icons a unique quality, while keeping them simple and bold. Simple elements unify icons and systemize their placement on the grid. Positioning, sizing, and coloring distinguish between icons.
 
 <p align="center">
-  <img src="../../assets/images/design-principles.png?raw=true" alt="design-principles"/>
+  <img src="../assets/images/design-principles.png?raw=true" alt="design-principles"/>
 </p>
 
 **Grid**
