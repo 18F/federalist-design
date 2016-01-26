@@ -44,12 +44,12 @@ Not all actions need an icon. You can use text to represent items in the applica
   <img src="../assets/images/variations.png?raw=true" alt="variations"/>
 </p>
 
-**Final Note**
-
-This is just a guideline and not a set of strict rules to follow. Always use your best judgment. 
-
 **Icons**
 
 <p align="center">
   <img src="../assets/images/icons.png?raw=true" alt="icons"/>
 </p>
+
+**Final Note**
+
+This is just a guideline and not a set of strict rules to follow. Always use your best judgment.
