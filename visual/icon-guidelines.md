@@ -44,6 +44,10 @@ If you’re designing an icon that has two versions—one for default and one fo
 
 Not all actions need an icon. You can use text to represent items in the application. To help you decide whether to use text or icons, consider how many icons are visible onscreen at a time. Too many icons on a screen can make an application seem difficult to use. 
 
+<p align="center">
+  <img src="../assets/images/text-button.png?raw=true" alt="text-button"/>
+</p>
+
 **Icons**
 
 <p align="center">
