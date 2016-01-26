@@ -52,4 +52,4 @@ Not all actions need an icon. You can use text to represent items in the applica
 
 **Final Note**
 
-This is just a guideline and not a set of strict rules to follow. Always use your best judgment.
+This is just a handy guideline and not a set of strict rules to follow. Always use your best judgment.
