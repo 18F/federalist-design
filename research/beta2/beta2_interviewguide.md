@@ -86,7 +86,7 @@ Let's say for a minute you decided that these changes aren't really working. Wha
 
 When you're finished, what would you do to make sure that the changes work and look good on the actual site?
 
-*[Looking for how and where people expect to see their changes.
+*[Looking for how and where people expect to see their changes.]*
 
 ———
 
