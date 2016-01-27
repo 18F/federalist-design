@@ -55,41 +55,41 @@ Now I’d like you to take a look at our current design. As we go through it, I'
 
 The first thing we'll do is to sign up on Federalist using Github. We'll go through this part quickly, and if you have any questions I can answer them at the end.
 
-basic landing page thoughts / login through github / dashboard pages list
+Let's go to https://federalist-test.18f.gov. Can you take look around, and tell me what this site is trying to say?
 
-*  Let's go to federalist.18f.gov
-* Let's log in [via github, log into github if you're not already]
-* [Then] Can you take look around, and tell me what this site is trying to say?
-  * *[Listen for: What is Federalist?  Who is it for?  Is it understandable? What seems confusing?]*
-* Let's create a new site
-  * [Then] Feel free to choose whichever template you'd like
-  * Name your site whatever you'd like
-  * It should take one or two minutes to create your new site.
-* Great! Let's see what your new site looks like.
-  * *[They should go to "View"]*
+*[Listen for: What is Federalist?  Who is it for?  Is it understandable? What seems confusing?]*
+
+Please log in, and create a new site, using the third template with the big image. When you finish, let's see what your new looks like.
+
+*[It should take one or two minutes to create your new site.]*
 
 
 ### 2: Making a new page
-*You've created all the pages necessary for your new website, except the Contact Us page. Please create that page and include the following:*
 
->Contact us any time by  email at test@test.gov. 
+You've created all the pages necessary for your new website, except the Contact Us page. Please create that page and include the following:
 
->We are available by phone during business hours 877-867-5309.
+"Contact us any time by  email at test@test.gov.
+We are available by phone during business hours 877-867-5309."
 
-- Add this image https://upload.wikimedia.org/wikipedia/commons/5/57/US_Capitol_Building_at_night_Jan_2006.jpg
+Add this image: https://upload.wikimedia.org/wikipedia/commons/5/57/US_Capitol_Building_at_night_Jan_2006.jpg
 
 When you finish, verify that your page was created.
 
 
 ### 3: Editing, previewing and publishing a page
 
-*Let's say you found a couple of typos on the index.md page, and you want to correct them.*
+Let's say you want to emphasize certain parts of the index.md page by making some text bold. Could you please make these changes?
 
-* What would you do to edit those typos?
-* Let's say you decided not to make these changes, what would you do? / Let's say you decided not to save your changes, what would you do?
-  * *[Looking for how people think about "Cancel"]*
-* Your corrections look great. What would you do to preview your changes?
-  * *[Looking for how and where people expect to see their changes. ASK: Can you preview from the page itself? Or do you need to go back to the pages view to preview the entire site?]*  
+Let's say for a minute you decided that these changes aren't really working. What would you do?
+
+*[Looking for how people think about "Cancel"]*
+
+When you're finished, what would you do to make sure that the changes work and look good on the actual site?
+
+*[Looking for how and where people expect to see their changes.
+
+———
+
 * Your Contact Us page is looking great. What would you do to make sure it's part of your live / published site?
   * *[Looking for how people understand and think about unpublished vs published pages. ASK: What's the status on this differentiation?]*
 
