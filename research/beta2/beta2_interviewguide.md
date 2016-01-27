@@ -70,16 +70,16 @@ basic landing page thoughts / login through github / dashboard pages list
 
 
 ### 2: Making a new page
+*You've created all the pages necessary for your new website, except the Contact Us page. Please create that page and include the following:*
 
-*Let's say you've created all the pages necessary for your new website, except the Contact Us page. Let's make that page now.*
+>Contact us any time by  email at test@test.gov. 
 
-* What would you do to make this new page?
-  * *[They should go to "Edit" and create a new page there]*
-* Can you add some content to this page?
-  * *[They should go to "Add a new page"]*
-  * Give them some contact info to add
-  * Let's add a picture of a map
-* Great. What would you do next, to make sure that this new page gets saved and is part of your site?
+>We are available by phone during business hours 877-867-5309.
+
+- Add this image https://upload.wikimedia.org/wikipedia/commons/5/57/US_Capitol_Building_at_night_Jan_2006.jpg
+
+When you finish, verify that your page was created.
+
 
 ### 3: Editing, previewing and publishing a page
 
