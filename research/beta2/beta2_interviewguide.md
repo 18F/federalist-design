@@ -101,7 +101,7 @@ Let's say you had a meeting with your team, and the follow up of that meeting wa
 - Contact Us should be a sub-page of About.
 - The order of Projects should be: 1) Reducing Summer Melt, 2) Microloans for Farmers
 
-* *[Looking for how well people interact with the drag and drop functionality and What are people are used to and would expect? How do people use the "show in menu" option.]*  
+* *[Looking for how well people interact with the drag and drop functionality. How do people use the "show in menu" option.]*  
 
 During a follow up, your team discusses that the Projects section needs to be thought about in a completely different way. You and your team come up with new content and are ready to add it to the site. You don't need the current projects. What would you do to take them off the site completely?
 
