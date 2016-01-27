@@ -77,7 +77,7 @@ When you finish, verify that your page was created.
 
 *[We're currently working on making sure there's a field for the page title, but for now, I'd like to you type "title: Contact Us" in the Other settings field.]*
 
-### 3: Editing, previewing and publishing a page
+### 3: Editing, canceling, publishing a page
 
 Let's say you want to emphasize certain parts of the About page by making some text bold. Could you please make these changes?
 
@@ -96,14 +96,14 @@ Can you tell me what navigation options might mean? What do these options do?
 
 ### 4: Organizing your site
 
-Let's say you had a meeting with your team, and the follow up of that meeting was to re-organize a couple of pages on the site. Here are the decisions:
+Let's say you had a meeting with your team, and the outcome of that meeting was to re-organize a couple of pages on the site. Here are the decisions:
 
 - Contact Us should be a sub-page of About.
 - The order of Projects should be: 1) Reducing Summer Melt, 2) Microloans for Farmers
 
 * *[Looking for how well people interact with the drag and drop functionality. How do people use the "show in menu" option.]*  
 
-During a follow up, your team discusses that the Projects section needs to be thought about in a completely different way. You and your team come up with new content and are ready to add it to the site. You don't need the current projects. What would you do to take them off the site completely?
+During another follow up, your team discusses that the Projects section needs to be thought about in a completely different way. You and your team come up with new content and are ready to add it to the site. You don't need the current projects. What would you do to take them off the site completely?
 
 * *[Looking for how people use bulk delete for drafts and pages.]*
 
