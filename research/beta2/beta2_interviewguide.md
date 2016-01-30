@@ -5,7 +5,11 @@ For usability testing in January 2016 / Beta 2
 
 *[5 min]*
 
-* **Intro:** Hello! My name is [your name]. Thank you for meeting with us. This interview involves two parts. During the first part, I’ll ask you some questions about your current role, and your experiences with creating websites. During the second part, I'd like to hear your thoughts about your current design. The purpose is to learn about you as someone who might use Federalist. There are absolutely no right or wrong answers. Please, feel comfortable with saying what you really think and how you really feel.
+* **Intro:** Hello! My name is [your name]. I really appreciate you taking time out of your day, to volunteer to chat with us. I know it's not easy to fit in something like this in a busy schedule. How're you doing today?
+
+I'm on the Federalist team here at 18F. We're continually working on improving it, and it's in our process to keep talking to folks who use it to make sure it's meeting your current and future needs. And today, we'd love to get feedback on some new features we've been working on in the past couple weeks.
+
+This interview involves two parts. During the first part, I’ll ask you some questions about your current role, and your experiences with creating websites. During the second part, I'd like to hear your thoughts about your current design. The purpose is to learn about you as someone who might use Federalist. There are absolutely no right or wrong answers. Please, feel comfortable with saying what you really think and how you really feel.
 
 * **Consent form**: Also, thanks for sending along the consent form! *[If they haven't sent in the consent form yet, have them read it over and sign before starting]*
 
@@ -37,7 +41,7 @@ For usability testing in January 2016 / Beta 2
 * What are your goals for publishing this content?
   * public access, academic audience, press and pr, internal departmental access, cross agency access
   * How have you or your organization met this need before?
-* **Do you have an approval process for publishing content?**
+* **Do you have an approval process for publishing content in your org?**
 * Tell me about the timeline and publishing challenges you have encountered when creating a website.
 * Is there anything else that you think we should know?
 
@@ -77,6 +81,14 @@ When you finish, verify that your page was created.
 
 *[We're currently working on making sure there's a field for the page title, but for now, I'd like to you type "title: Contact Us" in the Other settings field.]*
 
+*[Follow ups:]*  
+
+Can you tell me what Save as Draft means to you? What does Save & Publish mean? When would you use which?
+
+What would you do to make sure your changes made it to the live site?
+
+
+
 ### 3: Editing, canceling, publishing a page
 
 Let's say you want to emphasize certain parts of the About page by making some text bold. Could you please make these changes?
@@ -94,7 +106,7 @@ When you're finished, what would you do to make sure that the changes work and l
 Can you tell me what navigation options might mean? What do these options do?
 
 
-### 4: Organizing your site
+### 4: Organizing your site  
 
 Let's say you had a meeting with your team, and the outcome of that meeting was to re-organize a couple of pages on the site. Here are the decisions:
 
