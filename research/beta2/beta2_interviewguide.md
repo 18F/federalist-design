@@ -85,8 +85,6 @@ When you finish, verify that your page was created.
 
 Can you tell me what Save as Draft means to you? What does Save & Publish mean? When would you use which?
 
-What would you do to make sure your changes made it to the live site?
-
 
 
 ### 3: Editing, canceling, publishing a page
@@ -105,6 +103,9 @@ When you're finished, what would you do to make sure that the changes work and l
 
 Can you tell me what navigation options might mean? What do these options do?
 
+*[Follow ups:]*  
+
+What would you do to make sure your changes made it to the live site?
 
 ### 4: Organizing your site  
 
@@ -127,7 +128,6 @@ During another follow up, your team discusses that the Projects section needs to
 
 *[5 min]*
 
-* What is your impression of Federalist?
-* How would you describe it to someone else?
+* How would you describe Federalist to someone else?
 * How would you characterize it's brand / personality?
 * If you had a magic wand, what would Federalist look like and work like for you?
